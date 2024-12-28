@@ -5,7 +5,8 @@
 
 ## Description
 
-<img width="496" alt="Screen Shot 2024-12-28 at 6 04 01 PM" src="https://github.com/user-attachments/assets/6806d12b-3a0c-4b5b-bfa1-5080db29a603" />
+<img width="419" alt="Screen Shot 2024-12-28 at 7 23 19 PM" src="https://github.com/user-attachments/assets/83a85aad-6db9-4d00-945f-50147c0d9abb" />
+
 
 
 ### Challenge Files
