@@ -9,7 +9,7 @@
 
 
 ### Challenge Files
-- [Leak_stuff.rar](./CTF-Write_ups/Leak_stuff.rar)
+- [Leak_stuff.rar](./Leak_stuff.rar)
 
 ---
 
@@ -18,7 +18,7 @@
 This challenge was straightforward, and here's how I solved it step-by-step:
 
 1. **Decompressing the Archive:**
-   First, I extracted the contents of the [Leak_stuff.rar](./CTF-Write_ups/Leak_stuff.rar) file. Inside the archive, I found two files: `user.txt` and `password.txt`.
+   First, I extracted the contents of the [Leak_stuff.rar](./Leak_stuff.rar) file. Inside the archive, I found two files: `user.txt` and `password.txt`.
 
 2. **Identifying the User:**
    The challenge prompt asked to search for the user "osman" in the `user.txt` file. I quickly found the user at line 337.
