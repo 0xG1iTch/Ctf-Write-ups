@@ -9,7 +9,6 @@
 
 
 ### Challenge Files
-- `Leak_stuff.rar`
 - [Leak_stuff.rar](./CTF-Write_ups/Leak_stuff.rar)
 
 ---
