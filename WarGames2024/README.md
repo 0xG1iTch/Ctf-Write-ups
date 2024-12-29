@@ -2,7 +2,7 @@
 
 # Cryptography
 
-## Challenge: Credentials:
+## Challenge: Credentials
 
 ### Description
 
@@ -38,7 +38,7 @@ This challenge was straightforward, and here's how I solved it step-by-step:
 
 # Misc
 
-## Christmas Gift
+## Challenge: Christmas Gift
  
 ### Description
 
