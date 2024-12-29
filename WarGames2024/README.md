@@ -1,4 +1,4 @@
-# CTF Write-Up: WarGames ctf 2024
+# WarGames ctf 2024
 
 # Cryptography
 
