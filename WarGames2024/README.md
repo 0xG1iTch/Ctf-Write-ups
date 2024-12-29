@@ -8,14 +8,14 @@
 
 <img width="419" alt="Screen Shot 2024-12-28 at 7 23 19 PM" src="https://github.com/user-attachments/assets/83a85aad-6db9-4d00-945f-50147c0d9abb" />
 
-#### Challenge Files: [Leak_stuff.rar](../Files/Leak_stuff.rar)
+#### Challenge Files: [Leak_stuff.rar](../WarGames2024/Files/Leak_stuff.rar)
 
 ### Solution
 
 This challenge was straightforward, and here's how I solved it step-by-step:
 
 1. **Decompressing the Archive:**
-   First, I extracted the contents of the [Leak_stuff.rar](../Files/Leak_stuff.rar) file. Inside the archive, I found two files: `user.txt` and `password.txt`.
+   First, I extracted the contents of the [Leak_stuff.rar](../WarGames2024/Files/Leak_stuff.rar) file. Inside the archive, I found two files: `user.txt` and `password.txt`.
 
 2. **Identifying the User:**
    The challenge prompt asked to search for the user "osman" in the `user.txt` file. I quickly found the user at line 337.
@@ -40,12 +40,12 @@ This challenge was straightforward, and here's how I solved it step-by-step:
 
 <img width="489" alt="Screen Shot 2024-12-28 at 7 37 24 PM" src="https://github.com/user-attachments/assets/75231f82-6e5a-4c63-942c-2137f97b99cb" />
 
-#### Challenge Files: [gift.gif.zip](.//Files/gift.gif.zip)
+#### Challenge Files: [gift.gif.zip](../WarGames2024/Files/gift.gif.zip)
 
 ### Solution
 
 This challenge involved extracting the Flag from  a GIF file. Here’s how I solved it:
-   I opened the [gif.gif](../Files/ gift.gif.zip) file using a normal image preview software, that allowed me to view the individual frames of the GIF as static images (ause i opened it as an image).
+   I opened the [gif.gif](../WarGames2024/Files/ gift.gif.zip) file using a normal image preview software, that allowed me to view the individual frames of the GIF as static images (ause i opened it as an image).
    The GIF had **1402 frames** in total. I scrolled through all the frames and found the flag in the **last frame**.
    
    <img width="477" alt="Screen Shot 2024-12-28 at 7 32 47 PM" src="https://github.com/user-attachments/assets/2189071a-1610-4b0b-bf96-1902a476011d" />
