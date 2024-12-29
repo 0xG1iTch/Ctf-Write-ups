@@ -40,7 +40,7 @@ This challenge was straightforward, and here's how I solved it step-by-step:
 
 <img width="489" alt="Screen Shot 2024-12-28 at 7 37 24 PM" src="https://github.com/user-attachments/assets/75231f82-6e5a-4c63-942c-2137f97b99cb" />
 
-#### Challenge Files: [gif.gif](./Files/gift.gif.zip)
+#### Challenge Files: [gift.gif.zip](./Files/gift.gif.zip)
 
 ### Solution
 
