@@ -63,10 +63,10 @@ bronco{m4th3m4t1c5_r34l1y_1s_qu1t3_m4g1c4l_raAhH!}
 ## Challenge_2: MID_PRNG
 
 ### Challenge description
-![RSA](../2025/Bronco_ctf_2025/files/crypto/PRNG.png)
+![RSA](files/crypto/PRNG.png)
 
 **Challenge Files**
--[challenge.py](../2025/Bronco_ctf_2025/files/crypto/challenge.py)
+-[challenge.py](files/crypto/challenge.py)
 **Connection**:  
 ```bash
 nc bad-prng.nc.broncoctf.xyz 8000
