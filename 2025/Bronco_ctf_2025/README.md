@@ -72,7 +72,7 @@ bronco{m4th3m4t1c5_r34l1y_1s_qu1t3_m4g1c4l_raAhH!}
 
 **Challenge Files**
 
--[challenge.py](files/crypto/challenge.py)
+-![challenge.py](files/crypto/challenge.py)
 
 **Connection**:  
 ```bash
