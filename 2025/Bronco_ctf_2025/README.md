@@ -21,9 +21,11 @@ p = -811
 c = [-53102, -3390264, -2864697, -3111409, -2002688, -2864697, -1695722, -1957072, -1821648, -1268305, -3362005, -712024, -1957072, -1821648, -1268305, -732380, -2002688, -967579, -271768, -3390264, -712024, -1821648, -3069724, -732380, -892709, -271768, -732380, -2062187, -271768, -292609, -1599740, -732380, -1268305, -712024, -271768, -1957072, -1821648, -3418677, -732380, -2002688, -1821648, -3069724, -271768, -3390264, -1847282, -2267004, -3362005, -1764589, -293906, -1607693]
 
 ### Solution 
+
 The challenge uses negative primes, but RSA operations remain valid by working with the absolute values of the primes.
 
- **Steps**  
+ **Steps** 
+ 
 1. *Factorize Prime*:  we have `p = -811`, so we can compute q by `q = n // abs(p) = 3429719 // 811 = 4229`.  
  Primes are `p = 811`, `q = 4229` 
 
@@ -65,10 +67,13 @@ bronco{m4th3m4t1c5_r34l1y_1s_qu1t3_m4g1c4l_raAhH!}
 ## Challenge_2: MID_PRNG
 
 ### Challenge description
+
 ![RSA](files/crypto/PRNG.png)
 
 **Challenge Files**
+
 -[challenge.py](files/crypto/challenge.py)
+
 **Connection**:  
 ```bash
 nc bad-prng.nc.broncoctf.xyz 8000
