@@ -7,8 +7,7 @@
 
 ### Challenge Description  
 
-
-<img src="2025/Bronco_ctf_2025/files/crypto/RSA.png" width="950">
+![RSA](files/crypto/RSA.png)
 
 RSA implementation uses negative primes for encryption. 
 
